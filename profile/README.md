@@ -9,5 +9,5 @@ Repos:
 
 
 NPM:
-* [@sillylib/sillylib](https://www.npmjs.com/settings/sillylib/packages)
+* [@sillylib/sillylib](https://www.npmjs.com/package/@sillylib/sillylib)
 
